@@ -32,4 +32,4 @@ Developed for the **Artificial Intelligence Course (2026)**, this toolkit allows
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/aitoolkit.git](https://github.com/yourusername/aitoolkit.git)
+   git clone [https://github.com/nvdieu/aitoolkit.git](https://github.com/nvdieu/aitoolkit)
