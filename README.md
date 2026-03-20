@@ -30,6 +30,5 @@ Developed for the **Artificial Intelligence Course (2026)**, this toolkit allows
 - [SWI-Prolog](https://www.swi-prolog.org/) (Version 9.x or higher recommended).
 
 ### Installation
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/nvdieu/aitoolkit.git](https://github.com/nvdieu/aitoolkit)
+Clone this repository to your local machine:
+- [https://github.com/nvdieu/aitoolkit.git](https://github.com/nvdieu/aitoolkit)
