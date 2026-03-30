@@ -1,2 +1,0 @@
-
-Dung cho may Mac
