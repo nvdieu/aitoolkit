@@ -1,6 +1,6 @@
 # 🤖 AIToolkit: A Logic & Search Library for Prolog
 
-**AIToolkit** is a high-performance, educational Prolog library (`aitool.qlf`) designed to simplify the implementation of Artificial Intelligence concepts. It provides built-in support for Propositional Logic, Constraint Satisfaction Problems (CSP), and State-Space Search algorithms.
+**AIToolkit** is a high-performance, educational Prolog library (`aitool.pl`) designed to simplify the implementation of Artificial Intelligence concepts. It provides built-in support for Propositional Logic, Constraint Satisfaction Problems (CSP), and State-Space Search algorithms.
 
 Developed for the **Artificial Intelligence Course (2026)**, this toolkit allows students and researchers to focus on modeling problems rather than low-level algorithmic implementation.
 
